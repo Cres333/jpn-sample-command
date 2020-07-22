@@ -9,3 +9,6 @@
 
 ## [minecraft](/minecraft/tags/functions)
 デフォルトの動作を書き換えるコマンド
+
+## [rule](/rule/functions)
+ゲームルール関連のコマンド
