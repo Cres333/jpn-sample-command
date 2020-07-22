@@ -1,6 +1,9 @@
 # jpn-sample-command
 日本語でコメントするコマンドサンプル
 
+## [datapack.md](datapack.md)
+データパックのディレクトリ構成
+
 ## [item](/item/functions)
 アイテム関連のコマンド
 
