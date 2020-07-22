@@ -70,3 +70,13 @@ saves/
                               ┗ ???/
                                  ┗ ???.json
 ```
+
+# pack.mcmeta の中身
+```mcmeta
+{
+    "pack": {
+        "pack_format": 1,
+        "description": "データパックの説明"
+    }
+}
+```
